@@ -37,7 +37,6 @@ button{
     display: flex;
     flex-direction: column;
 }
-
 @media screen and (min-width: 720px){
    img{
     width: 30%;
