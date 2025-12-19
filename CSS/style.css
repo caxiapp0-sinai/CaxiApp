@@ -37,10 +37,7 @@ button{
     display: flex;
     flex-direction: column;
 }
-.disabled {
-  pointer-events: none;
-  opacity: 0.4;
-}
+
 @media screen and (min-width: 720px){
    img{
     width: 30%;
